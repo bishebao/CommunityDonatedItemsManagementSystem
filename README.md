@@ -1,0 +1,2 @@
+# CommunityDonatedItemsManagementSystem
+ 基于SpringBoot Vue社区捐赠物品管理系统
